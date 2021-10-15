@@ -1,8 +1,5 @@
-- 👋 I’m @7574
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+I’m @7574
+
 
 <!---
 7574/7574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
